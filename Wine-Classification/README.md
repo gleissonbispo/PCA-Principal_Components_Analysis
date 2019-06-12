@@ -16,7 +16,7 @@
 <img src = https://www.girltalktv.com/wp-content/uploads/2017/12/health-benefits-wine.png width=600>
 
 ## Results
-Using just to dimensions the results to the 3 Wine Type classification were:
+Using just _two_ dimensions the results to the 3 Wine Type classification were:
 
 
 **Confusion Matrix:**
